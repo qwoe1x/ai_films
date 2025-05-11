@@ -1,1 +1,1 @@
-# ai_films
+# setup .env file and install requirements
